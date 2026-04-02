@@ -130,11 +130,6 @@ A method can satisfy PDE residuals yet still violate physics.
 ├── wedge/
 │   ├── conservative.ipynb
 │   └── non_conservative.ipynb
-
-├── src/
-│   ├── models/
-│   ├── losses/
-│   └── utils/
 ├── requirements.txt
 └── README.md
 ```
